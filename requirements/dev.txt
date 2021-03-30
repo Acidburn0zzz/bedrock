@@ -3,9 +3,9 @@
 
 Sphinx==1.0.7 \
     --hash=sha256:80d62f3f7913c3322bf279ec26bfb12c1ce70404b00f4c87dc3ac190d150b0ab
-Pygments==2.0.2 \
-    --hash=sha256:0a3a2265e1efb0defa722d1f429730dc9df975adc3c60ac7d2b432bdf03c041d \
-    --hash=sha256:7320919084e6dac8f4540638a46447a3bd730fca172afc17d2c03eed22cf4f51
+Pygments==2.7.4 \
+    --hash=sha256:bc9591213a8f0e0ca1a5e68a479b4887fdc3e75d0774e5c71c31920c427de435 \
+    --hash=sha256:df49d09b498e83c1a73128295860250b0b7edd4c723a32e9bc0d295c7c2ec337
 docutils==0.12 \
     --hash=sha256:c7db717810ab6965f66c8cf0398a98c9d8df982da39b4cd7f162911eb89596fa
 flake8==2.0 \
